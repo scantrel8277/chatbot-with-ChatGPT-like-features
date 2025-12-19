@@ -1,0 +1,4 @@
+There are two things you must build to create your ChatGPT-like website:
+
+A back-end server that hosts your chatbot
+A front-end webpage that communicates with your back-end server
